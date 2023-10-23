@@ -118,7 +118,7 @@ if uploaded_file:
 
     local_vars = {}
 
-    if st.button("Submit Query", type="primary"):
+    if st.button("Submit Query"):
 
         get_output_from_agent(df, query)
 
