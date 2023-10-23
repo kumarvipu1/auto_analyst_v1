@@ -3,3 +3,4 @@ matplotlib==3.4.3
 seaborn==0.11.2
 streamlit==1.2.0
 langchain==0.0.320
+openai==0.28.1
