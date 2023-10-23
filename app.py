@@ -18,7 +18,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 warnings.simplefilter(action='ignore')
 
 
-llm = OpenAI(open_api_key=st.secrets['oai_api'])
+# llm = OpenAI(open_api_key=st.secrets['oai_api'])
 
 @contextlib.contextmanager
 def capture_output():
