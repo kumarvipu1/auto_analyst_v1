@@ -101,7 +101,7 @@ def get_output_from_agent(df, query):
 
 
 
-st.title("Streamlit Data Analytics App")
+st.title("Your Personal Data Analyst 👨‍💻")
 
 st.write("Please upload your CSV file below.")
 
